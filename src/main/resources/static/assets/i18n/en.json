@@ -1,0 +1,21 @@
+{
+  "login": {
+    "loginTitle": "Login",
+    "loginUsername": "Username",
+    "loginPassword": "Password",
+    "usernameRequired": "Username is required!",
+    "passwordRequired": "Password is required!"
+
+  },
+  "button": {
+    "loginButton": "Log In"
+  },
+  "navbar": {
+    "dashboard": "Dashboard",
+    "issue": "Create Issue"
+  },
+  "footer": {
+    "created": "Created by",
+    "rights": "All rights reserved"
+  }
+}

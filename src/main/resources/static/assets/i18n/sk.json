@@ -1,0 +1,22 @@
+{
+  "login": {
+    "loginTitle": "Prihlásenie",
+    "loginUsername": "Prihlasovacie meno",
+    "loginPassword": "Heslo",
+    "usernameRequired": "Zadajte prihlasovacie meno!",
+    "passwordRequired": "Zadajte heslo!"
+
+  },
+  "button": {
+    "loginButton": "Prihlásiť"
+  },
+  "navbar": {
+    "dashboard": "Nástenka",
+    "issue": "Vytvor problém"
+  },
+  "footer": {
+    "created": "Vytvorené od",
+    "rights": "Všetky práva vyhradené"
+  }
+
+}
